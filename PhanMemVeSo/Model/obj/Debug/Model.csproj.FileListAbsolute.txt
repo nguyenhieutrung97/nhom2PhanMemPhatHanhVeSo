@@ -72,3 +72,13 @@ E:\ASP.NET MVC PROJECT\Đồ án quản lý vé số\Đồ án quản lý vé s�
 E:\ASP.NET MVC PROJECT\Đồ án quản lý vé số\Đồ án quản lý vé số\PhanMemVeSo\Model\obj\Debug\Model.pdb
 E:\2\PhanMemVeSo\Model\obj\Debug\Model.csprojAssemblyReference.cache
 E:\2\PhanMemVeSo\Model\obj\Debug\Model.csproj.CoreCompileInputs.cache
+E:\2\PhanMemVeSo\Model\bin\Debug\Model.dll.config
+E:\2\PhanMemVeSo\Model\bin\Debug\Model.dll
+E:\2\PhanMemVeSo\Model\bin\Debug\Model.pdb
+E:\2\PhanMemVeSo\Model\bin\Debug\EntityFramework.dll
+E:\2\PhanMemVeSo\Model\bin\Debug\EntityFramework.SqlServer.dll
+E:\2\PhanMemVeSo\Model\bin\Debug\EntityFramework.xml
+E:\2\PhanMemVeSo\Model\bin\Debug\EntityFramework.SqlServer.xml
+E:\2\PhanMemVeSo\Model\obj\Debug\Model.csproj.CopyComplete
+E:\2\PhanMemVeSo\Model\obj\Debug\Model.dll
+E:\2\PhanMemVeSo\Model\obj\Debug\Model.pdb
