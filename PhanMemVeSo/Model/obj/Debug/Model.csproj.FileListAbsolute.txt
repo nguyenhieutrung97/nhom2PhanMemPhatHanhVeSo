@@ -70,3 +70,5 @@ E:\ASP.NET MVC PROJECT\Đồ án quản lý vé số\Đồ án quản lý vé s�
 E:\ASP.NET MVC PROJECT\Đồ án quản lý vé số\Đồ án quản lý vé số\PhanMemVeSo\Model\obj\Debug\Model.csproj.CopyComplete
 E:\ASP.NET MVC PROJECT\Đồ án quản lý vé số\Đồ án quản lý vé số\PhanMemVeSo\Model\obj\Debug\Model.dll
 E:\ASP.NET MVC PROJECT\Đồ án quản lý vé số\Đồ án quản lý vé số\PhanMemVeSo\Model\obj\Debug\Model.pdb
+E:\2\PhanMemVeSo\Model\obj\Debug\Model.csprojAssemblyReference.cache
+E:\2\PhanMemVeSo\Model\obj\Debug\Model.csproj.CoreCompileInputs.cache
